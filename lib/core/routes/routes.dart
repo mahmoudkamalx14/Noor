@@ -1,0 +1,11 @@
+class Routes {
+  static const String locationScreen = '/locationScreen';
+  static const String bottomNavBar = '/bottomNavBar';
+  static const String register = '/register';
+  static const String profile = '/profile';
+  static const String settings = '/settings';
+  static const String about = '/about';
+  static const String contact = '/contact';
+  static const String notFound = '/not-found';
+  static const String unknown = '/unknown';
+}
